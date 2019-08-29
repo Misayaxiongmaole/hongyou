@@ -15,6 +15,7 @@
 		049110E02317A8E8003D4C6A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 049110DF2317A8E8003D4C6A /* main.m */; };
 		049110EA2317A8E9003D4C6A /* textTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 049110E92317A8E9003D4C6A /* textTests.m */; };
 		049110F52317A8E9003D4C6A /* textUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 049110F42317A8E9003D4C6A /* textUITests.m */; };
+		049111042317A9BC003D4C6A /* PersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 049111032317A9BC003D4C6A /* PersonViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		049110F02317A8E9003D4C6A /* textUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = textUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		049110F42317A8E9003D4C6A /* textUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = textUITests.m; sourceTree = "<group>"; };
 		049110F62317A8E9003D4C6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		049111022317A9BC003D4C6A /* PersonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PersonViewController.h; sourceTree = "<group>"; };
+		049111032317A9BC003D4C6A /* PersonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PersonViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,8 @@
 				049110D02317A8DD003D4C6A /* AppDelegate.h */,
 				049110D12317A8DD003D4C6A /* AppDelegate.m */,
 				049110D32317A8DD003D4C6A /* ViewController.h */,
+				049111022317A9BC003D4C6A /* PersonViewController.h */,
+				049111032317A9BC003D4C6A /* PersonViewController.m */,
 				049110D42317A8DD003D4C6A /* ViewController.m */,
 				049110D62317A8DD003D4C6A /* Main.storyboard */,
 				049110D92317A8E8003D4C6A /* Assets.xcassets */,
@@ -265,6 +270,7 @@
 				049110D52317A8DD003D4C6A /* ViewController.m in Sources */,
 				049110E02317A8E8003D4C6A /* main.m in Sources */,
 				049110D22317A8DD003D4C6A /* AppDelegate.m in Sources */,
+				049111042317A9BC003D4C6A /* PersonViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
